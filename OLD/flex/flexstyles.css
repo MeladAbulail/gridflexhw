@@ -1,0 +1,52 @@
+.cont{
+    display: inline-flex;
+    background-color: black;
+    flex-wrap: wrap;
+    flex-direction: row;
+    border: 10px solid goldenrod;
+    justify-content: center;
+
+}
+
+.cont > div{
+    color: white;
+    font-size: 50px;
+    height: 600px;
+    padding: 20px;
+}
+
+#div1{
+    background-color: green;
+}
+
+#div2{
+    background-color: yellow;
+}
+
+#div3{
+    background-color: purple;
+}
+
+#div4{
+    background-color: grey;
+}
+
+#div5{
+    background-color: blue;
+}
+
+#div6{
+    background-color:orange;
+}
+
+#div7{
+    background-color: pink;
+}
+
+#div8{
+    background-color: red;
+}
+
+#div9{
+    background-color: darkred;
+}
